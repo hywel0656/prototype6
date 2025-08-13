@@ -1,4 +1,5 @@
 streamlit
+openai
 sentence-transformers
 gspread
 google-auth
